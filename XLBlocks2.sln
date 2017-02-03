@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "XLBlocks2", "XLBlocks2\XLBlocks2.vbproj", "{79BD1E0F-B5AD-4ECF-90DC-554355042898}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "XLBlocks2Web", "XLBlocks2Web\XLBlocks2Web.vbproj", "{6A6D20B5-8A9F-4143-BC32-0F0F365747D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BD1E0F-B5AD-4ECF-90DC-554355042898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BD1E0F-B5AD-4ECF-90DC-554355042898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BD1E0F-B5AD-4ECF-90DC-554355042898}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{79BD1E0F-B5AD-4ECF-90DC-554355042898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BD1E0F-B5AD-4ECF-90DC-554355042898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79BD1E0F-B5AD-4ECF-90DC-554355042898}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6A6D20B5-8A9F-4143-BC32-0F0F365747D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6D20B5-8A9F-4143-BC32-0F0F365747D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6D20B5-8A9F-4143-BC32-0F0F365747D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6D20B5-8A9F-4143-BC32-0F0F365747D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
